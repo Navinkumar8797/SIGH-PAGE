@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+}
+.navbar{
+    height: 600px;
+    border-style: solid;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+.Box{
+    height: 60px;
+    background-color:blueviolet;   
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+.Back{
+    background-image: url("Back.png");
+    height: 530px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.countainer{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    margin-left: 600px;
+    transform: translate(-50%,-50%);
+    border-radius: 5px;
+    align-items: center;
+}
+h2{
+    text-align: center;
+    margin-top: 60px;
+}
+h3{
+    text-align: center;
+    font-size: 12px;
+    font-weight: 400;
+}
+input{
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 200px;
+}
+button{
+    width: 150px;
+    height: 30px;
+    margin-left: 130px;
+    margin-top: 20px;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+}
+a{
+    margin-top: 20px;
+}
+#h5{
+    margin-left: 20px;
+}
+#h4{
+    margin-left: 130px;
+}
